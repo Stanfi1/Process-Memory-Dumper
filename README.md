@@ -28,7 +28,7 @@
    - Saves the binary output to the `dumps/` folder.
 
 <p align="center">
-  <img src="images/demo.png" alt="Screenshot" width="600"/>
+  <img src="IMG/demo.png" alt="Screenshot" width="600"/>
 </p>
 
 ## Requirements
